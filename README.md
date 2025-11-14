@@ -151,7 +151,7 @@ ORDER BY pct_months_with_data DESC;
 | EDDS     | Stuttgart          | 84           | 39              | 46.43              |
 | EDDB     | Berlin/Schoenefeld | 84           | 31              | 36.90              |
 
-**Selected airports (>70% completeness):**
+**Selected airports (>75% completeness):**
 
 * Cologne‑Bonn (EDDK)
 * Frankfurt (EDDF)
