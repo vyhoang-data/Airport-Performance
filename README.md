@@ -231,7 +231,7 @@ Weather emerged as **the only consistently strong and significant driver** acros
 
 ### 6. Data Visualization and Presentation
 
-* - Tableau dashboard: [Interactive dashboard]([https://public.tableau.com/app/profile/vy.hoang7117/viz/AirlinePerformance_17630531546060/Dashboard4](https://public.tableau.com/app/profile/vy.hoang7117/viz/AirlinePerformance_17630531546060/Dashboard4))
+* Tableau dashboard: [Interactive dashboard](https://public.tableau.com/app/profile/vy.hoang7117/viz/AirlinePerformance_17630531546060/Dashboard4)
 
 * Project Presentation: [YouTube Recording](https://www.youtube.com/watch?v=zTwFryfgfrM&t=1789s) [(29:43 - 39:00)](https://www.youtube.com/watch?v=zTwFryfgfrM&list=PL9ZjLysT1KACdlY6yhErcDCNj1j6LXRz7&index=2)
 
