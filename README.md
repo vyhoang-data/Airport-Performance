@@ -3,11 +3,15 @@ This project investigates why aircraft experience prolonged taxi‑out times at 
 
 * **Study Period**: 2018–2024.
 * **Airports**: Frankfurt (EDDF), Munich (EDDM), Düsseldorf (EDDL), Cologne‑Bonn (EDDK), Leipzig‑Halle (EDDP).
+
 ## 👥 Contributor
 
 **Vy Hoang** — Data Analyst
-Project Type: Personal business case analysis (non‑commercial)
+
+**Project Type**: Personal business case analysis (non‑commercial)
+
 **Tools:** BigQuery, R, Tableau
+
 **Tag**: Statistical Analysis, Visualizaion, Aviation Analytics 
 
 **Primary Questions:**
