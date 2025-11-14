@@ -139,6 +139,7 @@ WHERE STATE_NAME = 'Germany'
 GROUP BY apt_icao, apt_name
 ORDER BY pct_months_with_data DESC;
 ```
+
 | | APT_ICAO | APT_NAME           | total_months | months_with_data | pct_months_with_data |
 |----------|--------------------|---------------|-------------------|------------------------|
 | EDDK     | Cologne-Bonn       | 84            | 78                | 92.86                 |
@@ -150,6 +151,7 @@ ORDER BY pct_months_with_data DESC;
 | EDDH     | Hamburg            | 84            | 49                | 58.33                 |
 | EDDS     | Stuttgart          | 84            | 39                | 46.43                 |
 | EDDB     | Berlin/Schoenefeld | 84            | 31                | 36.90                 |
+
 
 **Selected airports (>70% completeness):**
 
