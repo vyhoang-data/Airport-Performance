@@ -248,11 +248,11 @@ Rscript r/03_reporting.R
 
 ## References
 
-European Organisation for the Safety of Air Navigation. (n.d.). *Taxiing time – EUROCONTROL Standard Inputs for Economic Analyses*. ANS Performance. Retrieved from [https://ansperformance.eu/references/standard-inputs/taxiing-time/](https://ansperformance.eu/references/standard-inputs/taxiing-time/)
+European Organisation for the Safety of Air Navigation. (n.d.). *Taxiing time – EUROCONTROL Standard Inputs for Economic Analyses*. ANS Performance. Retrieved from (https://ansperformance.eu/economics/cba/standard-inputs/latest/chapters/taxiing_times.html)
 
-European Organisation for the Safety of Air Navigation. (n.d.). *Cost of delay – EUROCONTROL Standard Inputs for Economic Analyses*. ANS Performance. Retrieved from [https://ansperformance.eu/references/standard-inputs/cost-of-delay/](https://ansperformance.eu/references/standard-inputs/cost-of-delay/)
+European Organisation for the Safety of Air Navigation. (n.d.). *Cost of delay – EUROCONTROL Standard Inputs for Economic Analyses*. ANS Performance. Retrieved from (https://ansperformance.eu/economics/cba/standard-inputs/latest/chapters/cost_of_delay.html)
 
-European Organisation for the Safety of Air Navigation. (n.d.). *Rate of fuel burn – EUROCONTROL Standard Inputs for Economic Analyses*. ANS Performance. Retrieved from [https://ansperformance.eu/references/standard-inputs/rate-of-fuel-burn/](https://ansperformance.eu/references/standard-inputs/rate-of-fuel-burn/)
+European Organisation for the Safety of Air Navigation. (n.d.). *Rate of fuel burn – EUROCONTROL Standard Inputs for Economic Analyses*. ANS Performance. Retrieved from (https://ansperformance.eu/economics/cba/standard-inputs/latest/chapters/rate_of_fuel_burn.html)
 
 ---
 **Contact**
