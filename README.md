@@ -140,18 +140,17 @@ GROUP BY apt_icao, apt_name
 ORDER BY pct_months_with_data DESC;
 ```
 
-| | APT_ICAO | APT_NAME           | total_months | months_with_data | pct_months_with_data |
-|----------|--------------------|---------------|-------------------|------------------------|
-| EDDK     | Cologne-Bonn       | 84            | 78                | 92.86                 |
-| EDDF     | Frankfurt          | 84            | 73                | 86.90                 |
-| EDDP     | Leipzig-Halle      | 84            | 73                | 86.90                 |
-| EDDM     | Munich             | 84            | 66                | 78.57                 |
-| EDDL     | Düsseldorf         | 84            | 64                | 76.19                 |
-| EDDT     | Berlin/Tegel       | 35            | 26                | 74.29                 |
-| EDDH     | Hamburg            | 84            | 49                | 58.33                 |
-| EDDS     | Stuttgart          | 84            | 39                | 46.43                 |
-| EDDB     | Berlin/Schoenefeld | 84            | 31                | 36.90                 |
-
+| APT_ICAO | APT_NAME           | total_months | months_with_data | pct_months_with_data |
+|----------|-------------------|--------------|-----------------|--------------------|
+| EDDK     | Cologne-Bonn       | 84           | 78              | 92.86              |
+| EDDF     | Frankfurt          | 84           | 73              | 86.90              |
+| EDDP     | Leipzig-Halle      | 84           | 73              | 86.90              |
+| EDDM     | Munich             | 84           | 66              | 78.57              |
+| EDDL     | Düsseldorf         | 84           | 64              | 76.19              |
+| EDDT     | Berlin/Tegel       | 35           | 26              | 74.29              |
+| EDDH     | Hamburg            | 84           | 49              | 58.33              |
+| EDDS     | Stuttgart          | 84           | 39              | 46.43              |
+| EDDB     | Berlin/Schoenefeld | 84           | 31              | 36.90              |
 
 **Selected airports (>70% completeness):**
 
