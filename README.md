@@ -22,7 +22,7 @@ This project investigates why aircraft experience prolonged taxi‑out times at 
 
 ## Why Taxi-out Time Delays Matter?
 
-* **Average Taxi‑Out Time (ECAC)**: 13.8 minutes at large/very large airports (2018).
+* **Average Taxi‑Out Time**: 13.8 minutes at large/very large airports (ECAC, 2018).
 * **Economic Cost**: ~€182 per minute of ground delay.
 * **Environmental Impact**: ~25.8 kg fuel burned per minute → 80+ kg CO₂.
 ---
